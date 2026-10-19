@@ -1,0 +1,30 @@
+{
+	id: "f2c18005-20f3-47d9-90cc-bdbbee4f85d6"
+	type: "player"
+	player_name: "sb_38ZQz_06_02"
+	ranks: {
+		f2c18005-20f3-47d9-90cc-bdbbee4f85d6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sb_38ZQz_06_02"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9F59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

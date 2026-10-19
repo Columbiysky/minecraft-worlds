@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "f2c1800520f347d990ccbdbbee4f85d6"
+	name: "sb_38ZQz_06_02#f2c18005"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6CAAC444D63D1068: 1L
+	}
+	started: {
+		2F2D8348EC25E12E: 1792431123506L
+		100A225B6AEDABCD: 1792431123506L
+		6CAAC444D63D1068: 1792431123506L
+		0000000000000001: 1792431123506L
+	}
+	completed: {
+		2F2D8348EC25E12E: 1792431123507L
+		6CAAC444D63D1068: 1792431123507L
+	}
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
