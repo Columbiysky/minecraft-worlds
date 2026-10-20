@@ -2166,87 +2166,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/tank_sky_stone": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2026-10-20 21:12:46 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2026-10-20 21:05:57 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2026-10-20 22:13:22 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
-    "criteria": {
-      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
-    "criteria": {
-      "has_certus_quartz_dust": "2026-10-20 21:20:54 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2026-10-20 20:51:46 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2026-10-20 20:51:44 +0300"
     },
     "done": true
   },
@@ -2256,15 +2178,576 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
-      "has_glass": "2026-10-20 22:13:22 +0300"
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-10-20 20:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-10-20 20:51:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-10-20 20:51:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-10-20 20:51:46 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_118": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 20:58:07 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_120": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 20:58:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-10-20 21:04:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-10-20 21:04:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2026-10-20 21:04:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2026-10-20 21:05:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2026-10-20 21:05:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-10-20 21:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-10-20 21:05:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-10-20 21:05:57 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-10-20 21:09:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-10-20 21:09:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-10-20 21:09:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-10-20 21:11:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-10-20 21:11:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-10-20 21:11:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-10-20 21:11:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-10-20 21:11:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2026-10-20 21:12:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-10-20 21:12:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2026-10-20 21:12:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2026-10-20 21:12:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-10-20 21:14:40 +0300"
     },
     "done": true
   },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2026-10-20 21:16:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-10-20 21:16:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-10-20 21:16:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-10-20 21:16:34 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2026-10-20 21:20:54 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2026-10-20 21:20:54 +0300"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2026-10-20 21:21:08 +0300",
+      "silicon": "2026-10-20 21:20:54 +0300",
+      "engineering": "2026-10-20 21:21:09 +0300",
+      "logic": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2026-10-20 21:20:54 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2026-10-20 21:20:54 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2026-10-20 21:20:54 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2026-10-20 21:35:16 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_141": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:37:59 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_390": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:43:09 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_2422": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:43:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-10-20 21:44:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
     },
     "done": true
   },
@@ -2280,21 +2763,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-20 21:44:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-10-20 21:45:05 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_154": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:45:23 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1919": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:45:39 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1740": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:45:44 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_200": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:49:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2026-10-20 21:51:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2026-10-20 21:53:33 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1922": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:53:42 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_148": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:56:17 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1741": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 21:57:36 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1917": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 22:05:08 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_147": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 22:05:12 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_151": {
+    "criteria": {
+      "has_the_recipe": "2026-10-20 22:07:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-10-20 22:13:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-10-20 22:13:22 +0300"
     },
     "done": true
   },
   "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
     "criteria": {
       "has_glass": "2026-10-20 22:13:22 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
     },
     "done": true
   },
@@ -2316,126 +2943,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/misc/tiny_tnt": {
-    "criteria": {
-      "has_gunpowder": "2026-10-20 21:09:52 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2026-10-20 21:11:56 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2026-10-20 21:14:40 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_sword": {
-    "criteria": {
-      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2026-10-20 22:13:22 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2026-10-20 21:11:56 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
-    "criteria": {
-      "has_dusts/quartz": "2026-10-20 21:20:54 +0300"
-    },
-    "done": true
-  },
-  "ae2:main/presses": {
-    "criteria": {
-      "calculation": "2026-10-20 21:21:08 +0300",
-      "silicon": "2026-10-20 21:20:54 +0300",
-      "engineering": "2026-10-20 21:21:09 +0300",
-      "logic": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
-    "criteria": {
-      "has_dusts/redstone": "2026-10-20 20:51:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2026-10-20 21:45:05 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2026-10-20 20:51:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_fluix": {
-    "criteria": {
-      "has_dusts/redstone": "2026-10-20 20:51:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
     },
     "done": true
   },
@@ -2445,69 +2955,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-10-20 21:21:08 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2026-10-20 21:04:26 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2026-10-20 21:12:11 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
-    "criteria": {
-      "has_crystals/certus": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_spade": {
-    "criteria": {
-      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2026-10-20 21:12:01 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-20 22:13:22 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2026-10-20 21:05:57 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/item_cell_housing": {
-    "criteria": {
-      "has_dusts/redstone": "2026-10-20 20:51:44 +0300"
     },
     "done": true
   },
@@ -2517,147 +2967,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
-    "criteria": {
-      "has_quartz_block": "2026-10-20 21:21:08 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2026-10-20 20:51:44 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2026-10-20 21:04:26 +0300"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2026-10-20 22:13:22 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
-    "criteria": {
-      "has_dusts/redstone": "2026-10-20 20:51:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2026-10-20 21:09:52 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/stairs/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2026-10-20 21:21:08 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_hoe": {
-    "criteria": {
-      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_390": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:43:09 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2026-10-20 21:35:16 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2026-10-20 20:51:46 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1922": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:53:42 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1921": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 22:15:52 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1919": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:45:39 +0300"
     },
     "done": true
   },
@@ -2667,51 +2979,9 @@
     },
     "done": true
   },
-  "industrialupgrade:recipes/misc/industrialupgrade_1917": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 22:05:08 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2026-10-20 21:11:56 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_axe": {
-    "criteria": {
-      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2026-10-20 21:21:08 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-20 22:13:22 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1915": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 22:14:53 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2026-10-20 21:05:57 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
     },
     "done": true
   },
@@ -2721,189 +2991,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2026-10-20 20:51:44 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/furnace_151": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 22:07:04 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/furnace_154": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:45:23 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_200": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:49:56 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_2422": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:43:46 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/furnace_147": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 22:05:12 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/furnace_148": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:56:17 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/furnace_141": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:37:59 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2026-10-20 21:12:24 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/furnace_118": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 20:58:07 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/walls/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2026-10-20 21:21:08 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/furnace_120": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 20:58:09 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2026-10-20 21:53:33 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
-    "criteria": {
-      "has_certus_quartz_dust": "2026-10-20 21:20:54 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_block": {
-    "criteria": {
-      "has_certus_quartz_crystal": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/slabs/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2026-10-20 21:21:08 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-20 22:13:22 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2026-10-20 21:04:26 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2026-10-20 21:11:56 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_wrench": {
-    "criteria": {
-      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2026-10-20 21:44:47 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2026-10-20 21:21:08 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2026-10-20 20:51:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
     },
     "done": true
   },
@@ -2925,63 +3015,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2026-10-20 21:51:15 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_glass": {
-    "criteria": {
-      "has_quartz_dust": "2026-10-20 21:20:54 +0300"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2026-10-20 22:13:22 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2026-10-20 21:16:34 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
-    "criteria": {
-      "has_certus_quartz": "2026-10-20 21:21:09 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1741": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:57:36 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1740": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 21:45:44 +0300"
     },
     "done": true
   },
@@ -2991,69 +3027,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2026-10-20 21:11:48 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2026-10-20 21:16:34 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2026-10-20 21:05:10 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2026-10-20 21:16:34 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2026-10-20 20:51:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-20 22:13:22 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-20 21:44:58 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1667": {
-    "criteria": {
-      "has_the_recipe": "2026-10-20 22:13:40 +0300"
     },
     "done": true
   },
@@ -3063,21 +3039,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/cut_quartz_block": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_quartz_block": "2026-10-20 21:21:08 +0300"
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2026-10-20 22:13:25 +0300"
     },
     "done": true
   },
@@ -3087,21 +3117,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2026-10-20 22:13:25 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2026-10-20 21:05:10 +0300"
     },
     "done": true
   },
@@ -3111,39 +3129,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+  "industrialupgrade:recipes/misc/industrialupgrade_1667": {
     "criteria": {
-      "has_sand": "2026-10-20 20:51:29 +0300"
+      "has_the_recipe": "2026-10-20 22:13:40 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+  "industrialupgrade:recipes/misc/industrialupgrade_1915": {
     "criteria": {
-      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
+      "has_the_recipe": "2026-10-20 22:14:53 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+  "industrialupgrade:recipes/misc/industrialupgrade_1921": {
     "criteria": {
-      "press": "2026-10-20 21:20:54 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2026-10-20 21:09:52 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/chests_sky_stone": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-20 21:19:42 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2026-10-20 20:51:44 +0300"
+      "has_the_recipe": "2026-10-20 22:15:52 +0300"
     },
     "done": true
   },
