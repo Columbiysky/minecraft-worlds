@@ -402,6 +402,7 @@
       "minecraft:stony_shore": "2026-10-17 20:11:16 +0300",
       "minecraft:lush_caves": "2026-10-17 20:13:41 +0300",
       "minecraft:eroded_badlands": "2026-10-17 21:53:21 +0300",
+      "minecraft:deep_dark": "2026-10-21 21:27:52 +0300",
       "minecraft:ocean": "2026-10-17 20:13:22 +0300",
       "minecraft:jungle": "2026-10-17 20:51:37 +0300",
       "minecraft:savanna": "2026-10-17 21:51:30 +0300",
@@ -3144,6 +3145,144 @@
   "industrialupgrade:recipes/misc/industrialupgrade_1921": {
     "criteria": {
       "has_the_recipe": "2026-10-20 22:15:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-10-21 21:11:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-10-21 21:11:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-10-21 21:11:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-10-21 21:11:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-10-21 21:14:24 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_136": {
+    "criteria": {
+      "has_the_recipe": "2026-10-21 21:34:43 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1649": {
+    "criteria": {
+      "has_the_recipe": "2026-10-21 21:35:55 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_146": {
+    "criteria": {
+      "has_the_recipe": "2026-10-21 21:36:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2026-10-21 21:42:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-10-21 21:42:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2026-10-21 21:42:03 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1920": {
+    "criteria": {
+      "has_the_recipe": "2026-10-21 21:52:09 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_121": {
+    "criteria": {
+      "has_the_recipe": "2026-10-21 22:27:16 +0300"
     },
     "done": true
   },
