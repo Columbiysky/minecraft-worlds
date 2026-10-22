@@ -1175,10 +1175,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-10-18 15:08:26 +0300",
+      "apple": "2026-10-22 21:23:38 +0300",
       "bread": "2026-10-17 23:37:35 +0300",
       "cooked_beef": "2026-10-18 13:50:20 +0300",
       "melon_slice": "2026-10-18 00:03:58 +0300",
-      "golden_carrot": "2026-10-18 14:52:57 +0300"
+      "golden_carrot": "2026-10-18 14:52:57 +0300",
+      "carrot": "2026-10-22 21:29:25 +0300"
     },
     "done": false
   },
@@ -2430,9 +2432,39 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/misc/tank_sky_stone": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
+      "has_iron_backpack": "2026-10-19 20:38:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_the_recipe": "2026-10-19 20:40:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-10-19 20:40:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2026-10-19 20:40:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2026-10-19 20:40:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-10-19 20:50:21 +0300"
     },
     "done": true
   },
@@ -2442,15 +2474,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_gold_block": "2026-10-19 22:09:52 +0300"
+      "has_flint": "2026-10-19 21:01:51 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_certus_quartz_dust": "2026-10-19 22:07:19 +0300"
+      "has_smelts_to_glass": "2026-10-19 21:32:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-10-19 21:32:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2026-10-19 21:40:41 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_120": {
+    "criteria": {
+      "has_the_recipe": "2026-10-19 21:52:32 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_200": {
+    "criteria": {
+      "has_the_recipe": "2026-10-19 21:52:35 +0300"
     },
     "done": true
   },
@@ -2466,12 +2522,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2026-10-19 22:00:24 +0300"
@@ -2481,24 +2531,6 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2026-10-19 22:00:24 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2026-10-19 20:40:56 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
-    "criteria": {
-      "has_dusts/quartz": "2026-10-19 22:07:19 +0300"
     },
     "done": true
   },
@@ -2514,66 +2546,9 @@
     },
     "done": true
   },
-  "ae2:main/presses": {
-    "criteria": {
-      "calculation": "2026-10-19 22:07:27 +0300",
-      "silicon": "2026-10-19 22:07:17 +0300",
-      "engineering": "2026-10-19 22:07:17 +0300",
-      "logic": "2026-10-19 22:07:17 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_the_recipe": "2026-10-19 20:40:36 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-10-19 22:07:25 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2026-10-19 22:00:24 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2026-10-19 22:24:12 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2026-10-19 20:40:56 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
-    "criteria": {
-      "has_quartz_block": "2026-10-19 22:07:25 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
-    "criteria": {
-      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
     },
     "done": true
   },
@@ -2589,21 +2564,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/stairs/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2026-10-19 22:07:25 +0300"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2026-10-19 22:00:24 +0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2026-10-19 22:27:15 +0300"
     },
     "done": true
   },
@@ -2613,57 +2576,138 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "has_quartz_block": "2026-10-19 22:07:25 +0300"
+      "has_diamond": "2026-10-19 22:00:24 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "has_smelts_to_glass": "2026-10-19 21:32:44 +0300"
+      "has_diamond": "2026-10-19 22:00:24 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "ae2:recipes/misc/misc/tank_sky_stone": {
     "criteria": {
-      "has_flint": "2026-10-19 21:01:51 +0300"
+      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
     },
     "done": true
   },
-  "industrialupgrade:recipes/misc/industrialupgrade_200": {
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
     "criteria": {
-      "has_the_recipe": "2026-10-19 21:52:35 +0300"
+      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
-      "has_wood_slab": "2026-10-19 20:50:21 +0300"
+      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
     },
     "done": true
   },
-  "industrialupgrade:recipes/misc/furnace_118": {
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
-      "has_the_recipe": "2026-10-19 22:23:42 +0300"
+      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/walls/quartz_block": {
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
-      "has_quartz_block": "2026-10-19 22:07:25 +0300"
+      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
     },
     "done": true
   },
-  "industrialupgrade:recipes/misc/furnace_120": {
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
-      "has_the_recipe": "2026-10-19 21:52:32 +0300"
+      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2026-10-19 22:07:27 +0300",
+      "silicon": "2026-10-19 22:07:17 +0300",
+      "engineering": "2026-10-19 22:07:17 +0300",
+      "logic": "2026-10-19 22:07:17 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2026-10-19 22:07:17 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2026-10-19 22:07:19 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2026-10-19 22:07:19 +0300"
     },
     "done": true
   },
   "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2026-10-19 22:07:19 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2026-10-19 22:07:19 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-10-19 22:07:25 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2026-10-19 22:07:25 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-10-19 22:07:25 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-10-19 22:07:25 +0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-10-19 22:07:25 +0300"
     },
     "done": true
   },
@@ -2679,54 +2723,6 @@
     },
     "done": true
   },
-  "industrialupgrade:recipes/misc/industrialupgrade_1066": {
-    "criteria": {
-      "has_the_recipe": "2026-10-19 22:24:27 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2026-10-19 21:40:41 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2026-10-19 22:00:24 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_glass": {
-    "criteria": {
-      "has_quartz_dust": "2026-10-19 22:07:19 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2026-10-19 20:40:53 +0300"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2026-10-19 22:27:00 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1649": {
-    "criteria": {
-      "has_the_recipe": "2026-10-19 22:26:04 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2026-10-19 21:32:44 +0300"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/decorative/cut_quartz_block": {
     "criteria": {
       "has_quartz_block": "2026-10-19 22:07:25 +0300"
@@ -2739,27 +2735,21 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
+      "has_gold_block": "2026-10-19 22:09:52 +0300"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "industrialupgrade:recipes/misc/furnace_118": {
     "criteria": {
-      "has_iron_backpack": "2026-10-19 20:38:46 +0300"
+      "has_the_recipe": "2026-10-19 22:23:42 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
-    "criteria": {
-      "press": "2026-10-19 22:07:17 +0300"
+      "has_iron_block": "2026-10-19 22:24:12 +0300"
     },
     "done": true
   },
@@ -2769,21 +2759,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "industrialupgrade:recipes/misc/industrialupgrade_1066": {
     "criteria": {
-      "has_diamond": "2026-10-19 22:00:24 +0300"
+      "has_the_recipe": "2026-10-19 22:24:27 +0300"
     },
     "done": true
   },
-  "ae2:recipes/misc/misc/chests_sky_stone": {
+  "industrialupgrade:recipes/misc/industrialupgrade_1649": {
     "criteria": {
-      "has_sky_stone_block": "2026-10-19 22:06:41 +0300"
+      "has_the_recipe": "2026-10-19 22:26:04 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2026-10-19 22:27:00 +0300"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2026-10-19 22:27:00 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2026-10-19 22:27:15 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_390": {
+    "criteria": {
+      "has_the_recipe": "2026-10-22 21:15:20 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1919": {
+    "criteria": {
+      "has_the_recipe": "2026-10-22 21:21:47 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_154": {
+    "criteria": {
+      "has_the_recipe": "2026-10-22 21:21:39 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_2422": {
+    "criteria": {
+      "has_the_recipe": "2026-10-22 21:15:04 +0300"
     },
     "done": true
   },
