@@ -1,0 +1,15 @@
+{
+  "port": 53849,
+  "allow-host-cheat": true,
+  "max-players": 8,
+  "gamemode": "survival",
+  "motd": "pampers - Yartsevo",
+  "allow-everyone-cheat": true,
+  "enforce-whitelist": false,
+  "enable-upnp": true,
+  "online-mode": false,
+  "enable-uuid-fixer": false,
+  "pvp": true,
+  "get-public-ip": true,
+  "remove-player-reporting": false
+}
