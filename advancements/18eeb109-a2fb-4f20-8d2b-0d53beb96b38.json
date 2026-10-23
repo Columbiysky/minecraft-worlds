@@ -407,7 +407,8 @@
       "minecraft:jungle": "2026-10-17 20:51:37 +0300",
       "minecraft:savanna": "2026-10-17 21:51:30 +0300",
       "minecraft:jagged_peaks": "2026-10-17 20:11:04 +0300",
-      "minecraft:warm_ocean": "2026-10-17 21:51:01 +0300"
+      "minecraft:warm_ocean": "2026-10-17 21:51:01 +0300",
+      "minecraft:deep_lukewarm_ocean": "2026-10-23 23:39:06 +0300"
     },
     "done": false
   },
@@ -557,6 +558,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-10-23 23:36:25 +0300",
       "apple": "2026-10-17 20:31:00 +0300",
       "bread": "2026-10-17 20:32:30 +0300",
       "glow_berries": "2026-10-17 20:18:06 +0300",
@@ -1323,7 +1325,9 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2026-10-17 20:46:49 +0300",
-      "minecraft:pig": "2026-10-17 20:46:43 +0300"
+      "minecraft:chicken": "2026-10-23 23:05:06 +0300",
+      "minecraft:pig": "2026-10-17 20:46:43 +0300",
+      "minecraft:sheep": "2026-10-23 23:05:37 +0300"
     },
     "done": false
   },
@@ -3286,15 +3290,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "industrialupgrade:recipes/misc/industrialupgrade_1923": {
     "criteria": {
-      "has_cobbled_deepslate": "2026-10-22 22:45:06 +0300"
+      "has_the_recipe": "2026-10-22 22:05:03 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1252": {
+    "criteria": {
+      "has_the_recipe": "2026-10-22 22:05:13 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/industrialupgrade_1251": {
+    "criteria": {
+      "has_the_recipe": "2026-10-22 22:08:48 +0300"
     },
     "done": true
   },
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2026-10-22 22:11:56 +0300"
+    },
+    "done": true
+  },
+  "industrialupgrade:recipes/misc/furnace_153": {
+    "criteria": {
+      "has_the_recipe": "2026-10-22 22:35:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-10-22 22:45:06 +0300"
     },
     "done": true
   },
@@ -3346,33 +3374,9 @@
     },
     "done": true
   },
-  "industrialupgrade:recipes/misc/industrialupgrade_1252": {
-    "criteria": {
-      "has_the_recipe": "2026-10-22 22:05:13 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1251": {
-    "criteria": {
-      "has_the_recipe": "2026-10-22 22:08:48 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/industrialupgrade_1923": {
-    "criteria": {
-      "has_the_recipe": "2026-10-22 22:05:03 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2026-10-22 22:45:06 +0300"
-    },
-    "done": true
-  },
-  "industrialupgrade:recipes/misc/furnace_153": {
-    "criteria": {
-      "has_the_recipe": "2026-10-22 22:35:38 +0300"
     },
     "done": true
   },
@@ -3439,6 +3443,114 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2026-10-22 22:45:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-10-23 23:22:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-10-23 23:22:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-10-23 23:22:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-10-23 23:22:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-10-23 23:13:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2026-10-23 23:48:01 +0300"
     },
     "done": true
   },

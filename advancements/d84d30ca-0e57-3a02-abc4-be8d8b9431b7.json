@@ -1898,6 +1898,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-10-22 22:20:23 +0300"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_iron_chest": {
     "criteria": {
       "has_tripwire_hook": "2026-10-22 22:35:41 +0300"
@@ -1946,9 +1952,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "wheat": "2026-10-22 22:20:23 +0300"
+      "bred": "2026-10-23 23:41:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2026-10-23 23:41:26 +0300"
+    },
+    "done": false
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2026-10-23 23:12:28 +0300"
     },
     "done": true
   },
